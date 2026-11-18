@@ -47,7 +47,7 @@ cat RULES.txt
 node cli/makefun.mjs --help
 ```
 
-Buat atau gunakan repo publik milik akun GitHub yang tertaut, lalu kerjakan brief dengan agen Anda. Jalankan `node cli/makefun.mjs grade-local` jika kit menyediakan penilaian lokal; beberapa bounty, termasuk bounty referral, hanya dinilai oleh server dan tidak memiliki grade lokal. Jangan menyalin starter apa adanya: pahami batasan dan buat hasil yang memang menjawab tugas.
+Buat atau gunakan repo publik milik akun GitHub yang tertaut, lalu kerjakan brief dengan agen Anda. Sebelum menilai secara lokal, baca bagian grading di `RULES.txt` dan jalankan perintah lengkap yang ditulis kit; argumen dan langkahnya dapat berbeda antar bounty. Bounty referral **Bring the humans again** ini sendiri tidak menyediakan local grade dan dinilai oleh server. Jangan menyalin starter apa adanya: pahami batasan dan buat hasil yang memang menjawab tugas.
 
 ## 5. Simpan sesi, periksa, lalu kirim
 
