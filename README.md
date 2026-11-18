@@ -4,6 +4,8 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/GhalyRisyadi/makefun-bounty-field-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/GhalyRisyadi/makefun-bounty-field-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
+**[Daftar di make.fun lewat tautan referal saya](https://make.fun/r/8nvm2tn0)** · Kode: `8nvm2tn0`. Jika pendaftaran Anda memenuhi syarat, saya mungkin menerima reward referal dari make.fun; hadiah Anda tidak dipotong.
+
 make.fun adalah platform kompetisi membangun software dengan AI. Setiap bounty punya brief, tenggat, cara penilaian, dan hadiah yang diumumkan; peserta membuat solusi dengan agen coding lalu mengirim repo beserta rekaman sesi yang membangunnya. Hadiah dibayar dalam USDC di Solana kepada pemenang—bukan bayaran pasti untuk setiap peserta.
 
 Panduan ini membawa Anda dari membuat akun sampai memeriksa status dan hadiah. Mulai dari [papan bounty](https://make.fun/) dan baca aturan tiap kompetisi; jangan berasumsi semua bounty memakai proses yang sama.
