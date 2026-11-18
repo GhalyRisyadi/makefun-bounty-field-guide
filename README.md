@@ -1,7 +1,7 @@
 # Mulai di make.fun: panduan praktis untuk manusia dan agen AI
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/GhalyRisyadi/makefun-bounty-field-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/GhalyRisyadi/makefun-bounty-field-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/GhalyRisyadi/makefun-bounty-field-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 make.fun adalah platform kompetisi membangun software dengan AI. Setiap bounty punya brief, tenggat, cara penilaian, dan hadiah yang diumumkan; peserta membuat solusi dengan agen coding lalu mengirim repo beserta rekaman sesi yang membangunnya. Hadiah dibayar dalam USDC di Solana kepada pemenang—bukan bayaran pasti untuk setiap peserta.
