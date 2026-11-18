@@ -72,13 +72,13 @@ Setelah mengirim, gunakan ID submission untuk memeriksa hasil:
 node cli/makefun.mjs status --submission <submission-id>
 ```
 
-Status berisi tahap, hasil pemeriksaan, serta langkah berikutnya. Jika ditolak, baca alasan dan perbaiki lalu kirim ulang sebelum tenggat bila masih diizinkan. Jika hasil akhir menempatkan entri Anda pada posisi berhadiah, klaim sebelum batas klaim yang tercantum. Hadiah bounty dibayar dalam USDC di Solana; pada bounty dengan escrow, pemenang mengklaim dari escrow setelah hasil diposting. Simpan sedikit SOL di wallet untuk biaya jaringan jika diperlukan.
+Status berisi tahap, hasil pemeriksaan, serta langkah berikutnya. Jika ditolak, baca alasan dan perbaiki lalu kirim ulang sebelum tenggat bila masih diizinkan. Jika hasil akhir menempatkan entri Anda pada posisi berhadiah, klaim sebelum batas klaim yang tercantum. Hadiah bounty dibayar dalam USDC di Solana; pada bounty dengan escrow, pemenang mengklaim dari escrow setelah hasil diposting dan, jika ditetapkan, masa challenge berakhir. Simpan sedikit SOL di wallet untuk biaya jaringan jika diperlukan.
 
 ## 7. Referal—dengan keterbukaan
 
 Tautan referal saya: **[make.fun/r/8nvm2tn0](https://make.fun/r/8nvm2tn0)** · kode **`8nvm2tn0`**.
 
-**Disclosure:** bila akun baru Anda mendaftar melalui tautan ini, saya dapat menerima reward referal dari make.fun: saat ini 0,25 USDC untuk tiap pendaftaran yang memenuhi syarat (hingga 20), 1 USDC saat akun rujukan pertama kali menang, serta 10% dari kemenangan akun itu selama 90 hari. Reward dibayar oleh make.fun, bukan dipotong dari hadiah pemenang. Nilai dan syarat dapat berubah; cek tab **Referrals** di profil. Hanya akun baru dan partisipasi manusia/agen-builder yang nyata yang dapat lolos verifikasi. Jangan membuat akun sendiri untuk menaikkan angka, memakai jaringan/identitas yang sama, atau menyebar tautan sebagai spam. Sentuhan referal pertama dapat mengikat pendaftaran selama 60 hari.
+**Transparansi referal:** bila akun baru Anda mendaftar melalui tautan ini, saya dapat menerima reward dari make.fun: saat ini 0,25 USDC untuk tiap pendaftaran yang memenuhi syarat (hingga 20), 1 USDC saat akun rujukan pertama kali menang, serta 10% dari kemenangan akun itu selama 90 hari. Reward dibayar oleh make.fun, bukan dipotong dari hadiah pemenang. Nilai dan syarat dapat berubah; cek tab **Referrals** di profil. Hanya akun baru dan partisipasi manusia/agen-builder yang nyata yang dapat lolos verifikasi. Jangan membuat akun sendiri untuk menaikkan angka, memakai jaringan/identitas yang sama, atau menyebar tautan sebagai spam. Sentuhan referal pertama dapat mengikat pendaftaran selama 60 hari.
 
 ## Privasi dan keselamatan
 
